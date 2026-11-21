@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:a18cd1&height=180&section=header&text=Fatima%20Zahrae&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=60&descSize=20" width="100%" alt="Fatima Zahrae banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:7873f5,100:4facfe&height=220&section=header&text=Fatima%20Zahrae&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=60&descSize=20" width="100%" alt="Animated profile banner" />
 
-### 🌱 Learning, building, and growing every day
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Learning+React%2C+SQL+%26+Web+Development;Building+projects+one+step+at+a+time" alt="Animated typing introduction" />
 
-📍 Morocco · 💻 Aspiring Web Developer
+📍 Morocco &nbsp;·&nbsp; 🌱 Always learning &nbsp;·&nbsp; 💻 Aspiring Web Developer
 
 </div>
 
 ---
 
-## 🩷 About Me
+## 🌸 About Me
 
 - 🎓 I'm learning web development
 - 🚀 I practice by building hands-on projects
@@ -31,7 +31,7 @@
 
 </div>
 
-## 📌 Projects
+## 🚀 Projects
 
 Take a look at the repositories on my profile to see what I'm building.
 
@@ -40,11 +40,11 @@ Take a look at the repositories on my profile to see what I'm building.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/fatima-zahra-faraji-435454398">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:fatimazahrae.faraji15@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" />
+  <img src="https://img.shields.io/badge/Gmail-SEND%20ME%20AN%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
 </a>
 
 </div>
@@ -53,6 +53,8 @@ Take a look at the repositories on my profile to see what I'm building.
 
 <div align="center">
 
-🌷 Create · Learn · Improve 🌷
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:7873f5,100:ff6ec4&height=100&section=footer" width="100%" alt="Profile footer banner" />
+
+✨ Create · Learn · Improve ✨
 
 </div>
