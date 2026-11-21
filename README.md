@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:7873f5,100:4facfe&height=220&section=header&text=Fatima%20Zahrae&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=60&descSize=20" width="100%" alt="Animated profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff9a9e,50:c084fc,100:60a5fa&height=200&section=header&text=Fatima%20Zahrae&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=WEB%20DEVELOPER%20IN%20PROGRESS&descAlignY=62&descSize=17" width="100%" alt="Fatima Zahrae banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Learning+React%2C+SQL+%26+Web+Development;Building+projects+one+step+at+a+time" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Building+projects+one+step+at+a+time" alt="Animated typing introduction" />
 
 📍 Morocco &nbsp;·&nbsp; 🌱 Always learning &nbsp;·&nbsp; 💻 Aspiring Web Developer
 
@@ -44,7 +44,7 @@ Take a look at the repositories on my profile to see what I'm building.
 </a>
 &nbsp;
 <a href="mailto:fatimazahrae.faraji15@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-SEND%20ME%20AN%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
 </a>
 
 </div>
