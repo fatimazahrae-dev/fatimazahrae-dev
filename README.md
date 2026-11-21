@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Fatima%20Zahrae&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=58&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=220&section=header&text=Fatima%20Zahra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=58&descSize=22" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B+I'm+Fatima+Zahrae;Learning+Web+Development+%F0%9F%92%BB;Building+projects+step+by+step+%F0%9F%9A%80;Always+curious+to+learn+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=fatimazahrae-dev&color=ff69b4&style=for-the-badge&label=VISITORS)
 
 </div>
 
@@ -54,16 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fatimazahrae-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazahrae-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-
-</div>
-
----
 
 ## 📌 My Projects
 
@@ -91,7 +79,6 @@
 <div align="center">
 
 🌸 *Learning, building, and growing every day* 🌸
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" width="100%"/>
 
 </div>
