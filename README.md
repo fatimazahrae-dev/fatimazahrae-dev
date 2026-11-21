@@ -1,24 +1,22 @@
 <div align="center">
 
-# 🌸 Hi, I'm Fatima Zahrae
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:a18cd1&height=180&section=header&text=Fatima%20Zahrae&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=60&descSize=20" width="100%" alt="Fatima Zahrae banner" />
 
-### Aspiring Web Developer
+### 🌱 Learning, building, and growing every day
 
-Learning, building, and growing one project at a time ✨
-
-📍 Morocco · 🌱 Always learning
+📍 Morocco · 💻 Aspiring Web Developer
 
 </div>
 
 ---
 
-## 01. About Me
+## 🩷 About Me
 
 - 🎓 I'm learning web development
 - 🚀 I practice by building hands-on projects
-- 🎨 I enjoy creating clean and user-friendly websites
+- ✨ I enjoy creating clean and user-friendly websites
 
-## 02. Tech Stack
+## 🧰 Tech Stack & Skills
 
 <div align="center">
 
@@ -33,20 +31,20 @@ Learning, building, and growing one project at a time ✨
 
 </div>
 
-## 03. Projects
+## 📌 Projects
 
 Take a look at the repositories on my profile to see what I'm building.
 
-## 04. Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/fatima-zahra-faraji-435454398">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:fatimazahrae.faraji15@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" />
 </a>
 
 </div>
